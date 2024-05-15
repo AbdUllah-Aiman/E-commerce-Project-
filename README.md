@@ -1,6 +1,6 @@
 # E-commerce-Project
 An E-commerce Project using HTML5 &amp; CSS3 &amp; JS
-I was responsible of Home, Cart, Sign in and sign up pages 
+Home, Cart, Sign in and sign up pages 
 Used JS to retrieve the Most Seller products and newest items based on real-data 
 ![10](https://github.com/AbdUllah-Aiman/E-commerce-Project-/assets/156405503/b55c82da-030a-4dbd-9cc1-8c8fb5ca7149)
 New Collection
